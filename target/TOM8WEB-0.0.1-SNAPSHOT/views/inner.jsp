@@ -7,7 +7,8 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1> CHECKMATE FOR YOU DUDEEE</h1>
-<a href="views/inner.jsp">Click!</a>
+<h1> I am from inner</h1>
+<h2>YUVAAZZZ</h2>
+<img src="Thala.jpeg">
 </body>
 </html>
